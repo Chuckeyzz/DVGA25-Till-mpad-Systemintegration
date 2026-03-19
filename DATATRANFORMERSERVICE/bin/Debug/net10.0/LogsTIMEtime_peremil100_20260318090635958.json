@@ -1,0 +1,72 @@
+{
+  "employees": {
+    "employee": [
+      {
+        "employee_id": "1001",
+        "name": "Jane Doe",
+        "extent": "98",
+        "designation": "Sales Manager",
+        "department": "Sales",
+        "join_date": "20110101",
+        "email": "jane.doe@somecompany.com",
+        "age": "40",
+        "shortname": "JanDoe"
+      },
+      {
+        "employee_id": "1002",
+        "name": "John Doe",
+        "extent": "100",
+        "designation": "Consultant",
+        "department": "Development",
+        "join_date": "20230601",
+        "email": "john.doe@somecompany.com",
+        "age": "23",
+        "shortname": "JohDoe"
+      },
+      {
+        "employee_id": "1003",
+        "name": "James Doe",
+        "extent": "100",
+        "designation": "Support Engineer",
+        "department": "Support",
+        "join_date": "19991101",
+        "email": "james.doe@somecompany.com",
+        "age": "47",
+        "shortname": "JamDoe"
+      },
+      {
+        "employee_id": "1004",
+        "name": "June Doe",
+        "extent": "50",
+        "designation": "Consultant",
+        "department": "Development",
+        "join_date": "20220301",
+        "email": "june.doe@somecompany.com",
+        "age": "49",
+        "shortname": "JunDoe"
+      },
+      {
+        "employee_id": "1005",
+        "name": "Jocelyn Doe",
+        "extent": "100",
+        "designation": "Sales Representative",
+        "department": "Sales",
+        "join_date": "20170701",
+        "email": "jocelyn.doe@somecompany.com",
+        "age": "42",
+        "shortname": "JocDoe"
+      },
+      {
+        "employee_id": "1006",
+        "name": "Justin Doe",
+        "extent": "100",
+        "designation": "Administrator",
+        "department": "Headquarters",
+        "join_date": "20240101",
+        "email": "justin.doe@somecompany.com",
+        "age": "21",
+        "shortname": "JusDoe"
+      }
+    ]
+  }
+}
