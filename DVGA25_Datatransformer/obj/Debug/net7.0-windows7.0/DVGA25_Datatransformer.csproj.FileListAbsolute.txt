@@ -1,0 +1,52 @@
+C:\Users\perem\source\repos\Chuckeyzz\DVGA25_Datatransformer\bin\Debug\net7.0-windows7.0\DVGA25_Datatransformer.exe
+C:\Users\perem\source\repos\Chuckeyzz\DVGA25_Datatransformer\bin\Debug\net7.0-windows7.0\DVGA25_Datatransformer.deps.json
+C:\Users\perem\source\repos\Chuckeyzz\DVGA25_Datatransformer\bin\Debug\net7.0-windows7.0\DVGA25_Datatransformer.runtimeconfig.json
+C:\Users\perem\source\repos\Chuckeyzz\DVGA25_Datatransformer\bin\Debug\net7.0-windows7.0\DVGA25_Datatransformer.dll
+C:\Users\perem\source\repos\Chuckeyzz\DVGA25_Datatransformer\bin\Debug\net7.0-windows7.0\DVGA25_Datatransformer.pdb
+C:\Users\perem\source\repos\Chuckeyzz\DVGA25_Datatransformer\bin\Debug\net7.0-windows7.0\BouncyCastle.Cryptography.dll
+C:\Users\perem\source\repos\Chuckeyzz\DVGA25_Datatransformer\bin\Debug\net7.0-windows7.0\Newtonsoft.Json.dll
+C:\Users\perem\source\repos\Chuckeyzz\DVGA25_Datatransformer\bin\Debug\net7.0-windows7.0\Renci.SshNet.dll
+C:\Users\perem\source\repos\Chuckeyzz\DVGA25_Datatransformer\obj\Debug\net7.0-windows7.0\DVGA25_Datatransformer.csproj.AssemblyReference.cache
+C:\Users\perem\source\repos\Chuckeyzz\DVGA25_Datatransformer\obj\Debug\net7.0-windows7.0\DVGA25_Datatransformer.Form1.resources
+C:\Users\perem\source\repos\Chuckeyzz\DVGA25_Datatransformer\obj\Debug\net7.0-windows7.0\DVGA25_Datatransformer.Properties.Resources.resources
+C:\Users\perem\source\repos\Chuckeyzz\DVGA25_Datatransformer\obj\Debug\net7.0-windows7.0\DVGA25_Datatransformer.csproj.GenerateResource.cache
+C:\Users\perem\source\repos\Chuckeyzz\DVGA25_Datatransformer\obj\Debug\net7.0-windows7.0\DVGA25_Datatransformer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perem\source\repos\Chuckeyzz\DVGA25_Datatransformer\obj\Debug\net7.0-windows7.0\DVGA25_Datatransformer.AssemblyInfoInputs.cache
+C:\Users\perem\source\repos\Chuckeyzz\DVGA25_Datatransformer\obj\Debug\net7.0-windows7.0\DVGA25_Datatransformer.AssemblyInfo.cs
+C:\Users\perem\source\repos\Chuckeyzz\DVGA25_Datatransformer\obj\Debug\net7.0-windows7.0\DVGA25_Datatransformer.csproj.CoreCompileInputs.cache
+C:\Users\perem\source\repos\Chuckeyzz\DVGA25_Datatransformer\obj\Debug\net7.0-windows7.0\DVGA25_Datatransformer.sourcelink.json
+C:\Users\perem\source\repos\Chuckeyzz\DVGA25_Datatransformer\obj\Debug\net7.0-windows7.0\DVGA25_D.088B934B.Up2Date
+C:\Users\perem\source\repos\Chuckeyzz\DVGA25_Datatransformer\obj\Debug\net7.0-windows7.0\DVGA25_Datatransformer.dll
+C:\Users\perem\source\repos\Chuckeyzz\DVGA25_Datatransformer\obj\Debug\net7.0-windows7.0\refint\DVGA25_Datatransformer.dll
+C:\Users\perem\source\repos\Chuckeyzz\DVGA25_Datatransformer\obj\Debug\net7.0-windows7.0\DVGA25_Datatransformer.pdb
+C:\Users\perem\source\repos\Chuckeyzz\DVGA25_Datatransformer\obj\Debug\net7.0-windows7.0\DVGA25_Datatransformer.genruntimeconfig.cache
+C:\Users\perem\source\repos\Chuckeyzz\DVGA25_Datatransformer\obj\Debug\net7.0-windows7.0\ref\DVGA25_Datatransformer.dll
+C:\Plugg\Högskoleingenjör i Datateknik\DVGA25 - Tillämpad systemintegration\Labbar\DVGA25_Datatransformer\DVGA25_Datatransformer\bin\Debug\net7.0-windows7.0\DVGA25_Datatransformer.exe
+C:\Plugg\Högskoleingenjör i Datateknik\DVGA25 - Tillämpad systemintegration\Labbar\DVGA25_Datatransformer\DVGA25_Datatransformer\bin\Debug\net7.0-windows7.0\DVGA25_Datatransformer.deps.json
+C:\Plugg\Högskoleingenjör i Datateknik\DVGA25 - Tillämpad systemintegration\Labbar\DVGA25_Datatransformer\DVGA25_Datatransformer\bin\Debug\net7.0-windows7.0\DVGA25_Datatransformer.runtimeconfig.json
+C:\Plugg\Högskoleingenjör i Datateknik\DVGA25 - Tillämpad systemintegration\Labbar\DVGA25_Datatransformer\DVGA25_Datatransformer\bin\Debug\net7.0-windows7.0\DVGA25_Datatransformer.dll
+C:\Plugg\Högskoleingenjör i Datateknik\DVGA25 - Tillämpad systemintegration\Labbar\DVGA25_Datatransformer\DVGA25_Datatransformer\bin\Debug\net7.0-windows7.0\DVGA25_Datatransformer.pdb
+C:\Plugg\Högskoleingenjör i Datateknik\DVGA25 - Tillämpad systemintegration\Labbar\DVGA25_Datatransformer\DVGA25_Datatransformer\bin\Debug\net7.0-windows7.0\BouncyCastle.Cryptography.dll
+C:\Plugg\Högskoleingenjör i Datateknik\DVGA25 - Tillämpad systemintegration\Labbar\DVGA25_Datatransformer\DVGA25_Datatransformer\bin\Debug\net7.0-windows7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Plugg\Högskoleingenjör i Datateknik\DVGA25 - Tillämpad systemintegration\Labbar\DVGA25_Datatransformer\DVGA25_Datatransformer\bin\Debug\net7.0-windows7.0\Newtonsoft.Json.dll
+C:\Plugg\Högskoleingenjör i Datateknik\DVGA25 - Tillämpad systemintegration\Labbar\DVGA25_Datatransformer\DVGA25_Datatransformer\bin\Debug\net7.0-windows7.0\RabbitMQ.Client.dll
+C:\Plugg\Högskoleingenjör i Datateknik\DVGA25 - Tillämpad systemintegration\Labbar\DVGA25_Datatransformer\DVGA25_Datatransformer\bin\Debug\net7.0-windows7.0\Renci.SshNet.dll
+C:\Plugg\Högskoleingenjör i Datateknik\DVGA25 - Tillämpad systemintegration\Labbar\DVGA25_Datatransformer\DVGA25_Datatransformer\bin\Debug\net7.0-windows7.0\System.Diagnostics.DiagnosticSource.dll
+C:\Plugg\Högskoleingenjör i Datateknik\DVGA25 - Tillämpad systemintegration\Labbar\DVGA25_Datatransformer\DVGA25_Datatransformer\bin\Debug\net7.0-windows7.0\System.IO.Pipelines.dll
+C:\Plugg\Högskoleingenjör i Datateknik\DVGA25 - Tillämpad systemintegration\Labbar\DVGA25_Datatransformer\DVGA25_Datatransformer\bin\Debug\net7.0-windows7.0\System.Threading.Channels.dll
+C:\Plugg\Högskoleingenjör i Datateknik\DVGA25 - Tillämpad systemintegration\Labbar\DVGA25_Datatransformer\DVGA25_Datatransformer\bin\Debug\net7.0-windows7.0\System.Threading.RateLimiting.dll
+C:\Plugg\Högskoleingenjör i Datateknik\DVGA25 - Tillämpad systemintegration\Labbar\DVGA25_Datatransformer\DVGA25_Datatransformer\obj\Debug\net7.0-windows7.0\DVGA25_Datatransformer.csproj.AssemblyReference.cache
+C:\Plugg\Högskoleingenjör i Datateknik\DVGA25 - Tillämpad systemintegration\Labbar\DVGA25_Datatransformer\DVGA25_Datatransformer\obj\Debug\net7.0-windows7.0\DVGA25_Datatransformer.Form1.resources
+C:\Plugg\Högskoleingenjör i Datateknik\DVGA25 - Tillämpad systemintegration\Labbar\DVGA25_Datatransformer\DVGA25_Datatransformer\obj\Debug\net7.0-windows7.0\DVGA25_Datatransformer.Properties.Resources.resources
+C:\Plugg\Högskoleingenjör i Datateknik\DVGA25 - Tillämpad systemintegration\Labbar\DVGA25_Datatransformer\DVGA25_Datatransformer\obj\Debug\net7.0-windows7.0\DVGA25_Datatransformer.csproj.GenerateResource.cache
+C:\Plugg\Högskoleingenjör i Datateknik\DVGA25 - Tillämpad systemintegration\Labbar\DVGA25_Datatransformer\DVGA25_Datatransformer\obj\Debug\net7.0-windows7.0\DVGA25_Datatransformer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Plugg\Högskoleingenjör i Datateknik\DVGA25 - Tillämpad systemintegration\Labbar\DVGA25_Datatransformer\DVGA25_Datatransformer\obj\Debug\net7.0-windows7.0\DVGA25_Datatransformer.AssemblyInfoInputs.cache
+C:\Plugg\Högskoleingenjör i Datateknik\DVGA25 - Tillämpad systemintegration\Labbar\DVGA25_Datatransformer\DVGA25_Datatransformer\obj\Debug\net7.0-windows7.0\DVGA25_Datatransformer.AssemblyInfo.cs
+C:\Plugg\Högskoleingenjör i Datateknik\DVGA25 - Tillämpad systemintegration\Labbar\DVGA25_Datatransformer\DVGA25_Datatransformer\obj\Debug\net7.0-windows7.0\DVGA25_Datatransformer.csproj.CoreCompileInputs.cache
+C:\Plugg\Högskoleingenjör i Datateknik\DVGA25 - Tillämpad systemintegration\Labbar\DVGA25_Datatransformer\DVGA25_Datatransformer\obj\Debug\net7.0-windows7.0\DVGA25_Datatransformer.sourcelink.json
+C:\Plugg\Högskoleingenjör i Datateknik\DVGA25 - Tillämpad systemintegration\Labbar\DVGA25_Datatransformer\DVGA25_Datatransformer\obj\Debug\net7.0-windows7.0\DVGA25_D.088B934B.Up2Date
+C:\Plugg\Högskoleingenjör i Datateknik\DVGA25 - Tillämpad systemintegration\Labbar\DVGA25_Datatransformer\DVGA25_Datatransformer\obj\Debug\net7.0-windows7.0\DVGA25_Datatransformer.dll
+C:\Plugg\Högskoleingenjör i Datateknik\DVGA25 - Tillämpad systemintegration\Labbar\DVGA25_Datatransformer\DVGA25_Datatransformer\obj\Debug\net7.0-windows7.0\refint\DVGA25_Datatransformer.dll
+C:\Plugg\Högskoleingenjör i Datateknik\DVGA25 - Tillämpad systemintegration\Labbar\DVGA25_Datatransformer\DVGA25_Datatransformer\obj\Debug\net7.0-windows7.0\DVGA25_Datatransformer.pdb
+C:\Plugg\Högskoleingenjör i Datateknik\DVGA25 - Tillämpad systemintegration\Labbar\DVGA25_Datatransformer\DVGA25_Datatransformer\obj\Debug\net7.0-windows7.0\DVGA25_Datatransformer.genruntimeconfig.cache
+C:\Plugg\Högskoleingenjör i Datateknik\DVGA25 - Tillämpad systemintegration\Labbar\DVGA25_Datatransformer\DVGA25_Datatransformer\obj\Debug\net7.0-windows7.0\ref\DVGA25_Datatransformer.dll
